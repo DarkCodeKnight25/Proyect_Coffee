@@ -1,0 +1,11 @@
+C:\Users\Kenshin Himura\source\repos\PROYECTO_CAFE\PROYECTO_CAFE\bin\Debug\PROYECTO_CAFE.exe.config
+C:\Users\Kenshin Himura\source\repos\PROYECTO_CAFE\PROYECTO_CAFE\bin\Debug\PROYECTO_CAFE.exe
+C:\Users\Kenshin Himura\source\repos\PROYECTO_CAFE\PROYECTO_CAFE\bin\Debug\PROYECTO_CAFE.pdb
+C:\Users\Kenshin Himura\source\repos\PROYECTO_CAFE\PROYECTO_CAFE\obj\Debug\PROYECTO_CAFE.csprojAssemblyReference.cache
+C:\Users\Kenshin Himura\source\repos\PROYECTO_CAFE\PROYECTO_CAFE\obj\Debug\PROYECTO_CAFE.Form1.resources
+C:\Users\Kenshin Himura\source\repos\PROYECTO_CAFE\PROYECTO_CAFE\obj\Debug\PROYECTO_CAFE.Form2.resources
+C:\Users\Kenshin Himura\source\repos\PROYECTO_CAFE\PROYECTO_CAFE\obj\Debug\PROYECTO_CAFE.Properties.Resources.resources
+C:\Users\Kenshin Himura\source\repos\PROYECTO_CAFE\PROYECTO_CAFE\obj\Debug\PROYECTO_CAFE.csproj.GenerateResource.cache
+C:\Users\Kenshin Himura\source\repos\PROYECTO_CAFE\PROYECTO_CAFE\obj\Debug\PROYECTO_CAFE.csproj.CoreCompileInputs.cache
+C:\Users\Kenshin Himura\source\repos\PROYECTO_CAFE\PROYECTO_CAFE\obj\Debug\PROYECTO_CAFE.exe
+C:\Users\Kenshin Himura\source\repos\PROYECTO_CAFE\PROYECTO_CAFE\obj\Debug\PROYECTO_CAFE.pdb
